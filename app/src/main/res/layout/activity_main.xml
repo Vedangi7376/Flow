@@ -44,12 +44,13 @@
                     android:id="@+id/textView"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:fontFamily="monospace"
+                    android:fontFamily="@font/pt_mono"
                     android:paddingLeft="32dp"
                     android:paddingRight="32dp"
                     android:paddingBottom="20dp"
                     android:text="@string/good_morning"
                     android:textColor="@color/black"
+                    android:textFontWeight="600"
                     android:textSize="36dp" />
 
                 <LinearLayout
