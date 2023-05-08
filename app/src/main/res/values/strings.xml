@@ -2,4 +2,7 @@
     <string name="app_name">Flow</string>
     <string name="home_button">home button</string>
     <string name="new_note">new_note</string>
+    <string name="background">background</string>
+    <string name="textview">TextView</string>
+    <string name="good_morning">Good\nmorning!</string>
 </resources>
